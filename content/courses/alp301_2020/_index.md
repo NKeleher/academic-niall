@@ -20,5 +20,5 @@ menu:
     name: "ALP 301"
     weight: 1
 ---
-
-### :construction: Under Construction
+:construction:
+### Under Construction
