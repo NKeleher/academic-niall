@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Niall C. Keleher
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
 - name: Stanford University
-  url: ""
+  url: "https://www.stanford.edu/"
+- name: Stanford Graduate School of Business
+  url: "https://www.gsb.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the intersection of development economics, social network analysis, and the use of new methods of data collection in these, as well as other, domains. I have 10 years of experience conducting randomized evaluations and primary data collection in developing countries.
 
 interests:
 - Artificial Intelligence
@@ -27,15 +29,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Information Management and Systems
+    institution: UC Berkeley School of Information
+    year: 2019
+  - course: MPA in International Development
+    institution: Harvard Kennedy School
+    year: 2006
+  - course: BA in Economics and International Studies (Double Major)
+    institution: The Johns Hopkins University
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
