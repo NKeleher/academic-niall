@@ -13,24 +13,24 @@
   url = "publication/"  # The URL of your page.
   weight = 20  # The position of your page in the menu.
 
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 20
-
 [[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 30
 
 [[main]]
+  name = "Blog"
+  url = "post/"
+  weight = 40
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 40
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "files/NCKeleher_CV.pdf"
-  weight = 50
+  weight = 60
