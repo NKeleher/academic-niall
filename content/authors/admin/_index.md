@@ -14,15 +14,15 @@ role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: "https://www.stanford.edu/"
-- name: Graduate School of Business
+- name: Stanford Graduate School of Business
   url: "https://www.gsb.stanford.edu/"
-- name: Stanford Data Science Institute
-  url: "https://datascience.stanford.edu/people/data-science-scholars/grid"
+- name: Golub Capital Social Impact Lab
+  url: "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil"
+#- name: Stanford Data Science Institute
+#  url: "https://datascience.stanford.edu/people/data-science-scholars/grid"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the intersection of development economics, social network analysis, and the use of new methods of data collection in these, as well as other, domains. I have 10 years of experience conducting randomized evaluations and primary data collection in developing countries.
+bio: Niall Keleher's is a member of the Golub Capital Social Impact Lab at Stanford GSB. His research focuses on the intersection of data science for social good, causal inference, development economics, and the use of new methods of data collection.
 
 interests:
 - Data Science
@@ -78,4 +78,6 @@ user_groups: []
 # - Visitors
 ---
 
-Niall Keleher is a Postdoctoral Scholar at the Stanford Graduate School of Business. He is a member of the Golub Capital Social Impact Lab. Niall completed his Ph.D. at the UC Berkeley School of Information in 2019. He has worked in the Chief Economist’s Office of the World Bank and as Director of Research Methods and Knowledge Management at Innovations for Poverty Action. During the course of his career, Niall has worked on research with financial institutions, development organizations, and online tech firms. Niall holds a Bachelors degree in Economics and International Studies from the Johns Hopkins University and a Masters in Public Administration in International Development from the Harvard Kennedy School.
+# Niall Keleher is a Postdoctoral Scholar at the Stanford Graduate School of Business. He is a member of the Golub Capital Social Impact Lab.
+
+Niall's research focuses on the intersection of data science for social good, causal inference, development economics, and the use of new methods of data collection. He has over 10 years of experience conducting randomized evaluations and primary data collection in developing countries. He has worked in the Chief Economist’s Office of the World Bank and as Director of Research Methods and Knowledge Management at Innovations for Poverty Action. During the course of his career, Niall has worked on research with financial institutions, development organizations, and online tech firms. He holds a Bachelors degree in Economics and International Studies from the Johns Hopkins University, a Masters in Public Administration in International Development from the Harvard Kennedy School, and Ph.D. in Information Management and Systems from the University of California Berkeley School of Information.
