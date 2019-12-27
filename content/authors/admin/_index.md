@@ -10,13 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Scholar/Data Science Scholar
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
 # - name: Stanford University
   # url: "https://www.stanford.edu/"
-- name: Stanford Graduate School of Business
+- name: Stanford University
+  url: "https://www.stanford.edu/"
+- name: Graduate School of Business
   url: "https://www.gsb.stanford.edu/"
 - name: Stanford Data Science Institute
   url: "https://datascience.stanford.edu/people/data-science-scholars/grid"
@@ -59,6 +61,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/NKeleher
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/niall-keleher/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv

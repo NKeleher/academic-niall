@@ -110,7 +110,8 @@ appointment_url = "https://calendly.com/nkeleher"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "nkeleher", link = "https://twitter.com/nkeleher"},
-  {icon = "skype", icon_pack = "fab", name = "nkeleher", link = "skype:nkeleher"},
+  {icon = "linkeid", icon_pack = "fab", name = "niall-keleher", link = "https://www.linkedin.com/in/niall-keleher/"},
+  # {icon = "skype", icon_pack = "fab", name = "nkeleher", link = "skype:nkeleher"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
