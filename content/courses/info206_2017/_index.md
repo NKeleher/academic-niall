@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Overview
+    name: "Info 206"
     weight: 1
 ---
 
