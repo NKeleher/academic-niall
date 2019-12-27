@@ -8,5 +8,7 @@ abstract: "This paper describes the design and implementation of Premise, a mobi
 featured: false
 publication: "*Proceedings of the Eighth International Conference on Information and Communication Technologies and Development*"
 doi: "10.1145/2909609.2909646"
+tags: ["mobile phones", "crowdsourcing"]
+categories: ["ICTD"]
 ---
 

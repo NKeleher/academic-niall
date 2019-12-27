@@ -6,8 +6,8 @@ subtitle: "Introducing Mobile Networks in the Rural Philippines"
 summary: "Despite the rapid global expansion of mobile phone coverage, many isolated, rural communities do not have connectivity. In the Philippines, we are evaluating the impact of installing cellular towers and providing free SIM cards for mobile phone use on communication activity and frequency, social ties, access to information, migration and labor market outcomes, bargaining power and market prices, and income and employment decisions."
 external_link: https://www.poverty-action.org/study/getting-connected-impact-mobile-phone-connectivity-rural-philippines
 authors: ["Claire Barela", "Joshua Blumenstock", "Cedric Festin", "Kurtis Heimerl", "Niall Keleher", "Matthew Podolsky", "Erin Troland", "Arman Rezaee"]
-tags: ["cellular networks", "mobile phones", "welfare", "social networks", "ictd"]
-categories: ["ictd"]
+tags: ["cellular networks", "mobile phones", "welfare", "social networks"]
+categories: ["ICTD"]
 date: 2019-12-27T12:40:54-08:00
 lastmod: 2019-12-27T12:40:54-08:00
 featured: false
