@@ -5,24 +5,23 @@ summary: Learn how to use Academic's docs layout for publishing online courses, 
 weight: 1
 
 # Page metadata.
-title: Overview
+title: "Software Prototyping for Data Science and Information Management"
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-menu:
-  example:
-    name: Overview
-    weight: 1
+#menu:
+#  example:
+#    name: Overview
+#    weight: 1
 ---
 
-# Info 206 - Software Prototyping for Data Science and Information Management
-### UC Berkeley - Fall 2017
+# Info 206, UC Berkeley School of Information, Fall 2017
 
 Info 206 is primarily designed for MIMS students in the School of Information. This course introduces software skills used in building prototype scripts for applications in data science and information management. The course gives an overview of procedural programming, object-oriented programming, and functional programming techniques in the Python scripting language, together with an overview of fundamental data structures, associated algorithms, and asymptotic performance analysis. Students will watch a set of instructional videos covering material and will have three hours of laboratory-style meetings each week.
 
