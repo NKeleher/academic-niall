@@ -14,8 +14,6 @@ role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
-# - name: Stanford University
-  # url: "https://www.stanford.edu/"
 - name: Stanford University
   url: "https://www.stanford.edu/"
 - name: Graduate School of Business
