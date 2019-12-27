@@ -7,11 +7,36 @@ light = true
 # Primary
 primary = "#8c1515"
 
+#palette_Stanford
+# https://identity.stanford.edu/color.html#digital-color
+# "#eaab00" % Sun
+# "#0098db" % Sky
+# "#006CB8" % Bright Blue
+# "#009b76" % Mint 
+# "#d2c295" % Sandstone
+# "#00548f" % Dark blue
+# "#e98300" % Poppy
+# "#53284f" % Purple
+# "#2e2d29" % Black
+# "#F4F4F4" % Gray
+
+
+#palette_OkabeIto
+# "#E69F00" % Orange
+# "#56B4E9" % Light Blue
+# "#009E73" % Green
+# "#F0E442" % Yellow
+# "#0072B2" % Dark blue
+# "#D55E00" % Orange
+# "#CC79A7" % Pink
+# "#000000" % Black
+# "#999999" % Gray
+
 # Menu
-menu_primary = "#8c1515"
-menu_text = "#F4F4F4"
-menu_text_active = "#006CB8"
-menu_title = "#F4F4F4"
+menu_primary = "#2F2424"
+menu_text = "#ffffff"
+menu_text_active = "#0098db"
+menu_title = "#ffffff"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
