@@ -33,9 +33,9 @@ primary = "#006CB8"
 # "#999999" % Gray
 
 # Menu
-menu_primary = "#2F2424"
+menu_primary = "#2f2424"
 menu_text = "#ffffff"
-menu_text_active = "#006CB8"
+menu_text_active = "#eaab00"
 menu_title = "#ffffff"
 
 # Home sections

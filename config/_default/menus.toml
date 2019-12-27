@@ -9,9 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 20
+  name = "Publications"  # A link title for your page.
+  url = "publication/"  # The URL of your page.
+  weight = 20  # The position of your page in the menu.
+
+#[[main]]
+#  name = "Publications"
+#  url = "#featured"
+#  weight = 20
 
 [[main]]
   name = "Teaching"
