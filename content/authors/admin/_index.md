@@ -10,22 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Scholar
+role: 
+- Postdoctoral Scholar
+- Data Science Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: "https://www.stanford.edu/"
+# - name: Stanford University
+  # url: "https://www.stanford.edu/"
 - name: Stanford Graduate School of Business
   url: "https://www.gsb.stanford.edu/"
+- name: Stanford Data Science Institute
+  url: "https://datascience.stanford.edu/people/data-science-scholars/grid"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the intersection of development economics, social network analysis, and the use of new methods of data collection in these, as well as other, domains. I have 10 years of experience conducting randomized evaluations and primary data collection in developing countries.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Causal Inference
+- Survey Research
+- Development Economics
 
 education:
   courses:
@@ -67,9 +72,9 @@ email: "niall.keleher@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
+# - Researchers
+# - Visitors
 ---
 
 Niall Keleher is a Postdoctoral Scholar at the Stanford Graduate School of Business. He is a member of the Golub Capital Social Impact Lab. Niall completed his Ph.D. at the UC Berkeley School of Information in 2019. He has worked in the Chief Economist’s Office of the World Bank and as Director of Research Methods and Knowledge Management at Innovations for Poverty Action. During the course of his career, Niall has worked on research with financial institutions, development organizations, and online tech firms. Niall holds a Bachelors degree in Economics and International Studies from the Johns Hopkins University and a Masters in Public Administration in International Development from the Harvard Kennedy School.
