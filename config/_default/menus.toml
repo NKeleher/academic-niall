@@ -18,15 +18,15 @@
   url = "project/"  # The URL of your page.
   weight = 30  # The position of your page in the menu.
 
-[[main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 40
-
 #[[main]]
-#  name = "Courses"
-#  url = "courses/"
+#  name = "Teaching"
+#  url = "#teaching"
 #  weight = 40
+
+[[main]]
+  name = "Courses"
+  url = "courses/"
+  weight = 40
 
 #[[main]]
 #  name = "Blog"
