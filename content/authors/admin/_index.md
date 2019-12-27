@@ -10,9 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
-- Postdoctoral Scholar
-- Data Science Scholar
+role: Postdoctoral Scholar/Data Science Scholar
 
 # Organizations/Affiliations
 organizations:
