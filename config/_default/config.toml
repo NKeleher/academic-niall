@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Niall C. Keleher"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+# copyright = ""
 
 ############################
 ## Advanced options below ##
@@ -22,8 +22,18 @@ copyright = ""
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
+# tell blogdown which directory it should place the rendered site in
+publishDir = "../nkeleher.github.io"
+
 # Get last modified date for content from Git?
 enableGitInfo = false
+
+# Configure BlackFriday Markdown rendering.
+#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
+  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
