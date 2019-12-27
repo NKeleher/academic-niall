@@ -20,10 +20,10 @@ baseurl = "/"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic"
+theme = "stanford"
 
 # tell blogdown which directory it should place the rendered site in
-publishDir = "../nkeleher.github.io"
+# publishDir = "../nkeleher.github.io"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
