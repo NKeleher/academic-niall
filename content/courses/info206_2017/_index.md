@@ -1,8 +1,8 @@
 ---
 # Course title, summary, and position.
 linktitle: Info 206 - Software Prototyping for Data Science and Information Management
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 1
+summary: "This course introduces software skills used in building prototype scripts for applications in data science and information management. The course gives an overview of procedural programming, object-oriented programming, and functional programming techniques in the Python scripting language, together with an overview of fundamental data structures, associated algorithms, and asymptotic performance analysis."
+weight: 2
 
 # Page metadata.
 title: "Software Prototyping for Data Science and Information Management"

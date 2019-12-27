@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Teaching Assistant Experience
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 1
+weight: 3
 
 # Page metadata.
 title: "Teaching Assistant Experience"
