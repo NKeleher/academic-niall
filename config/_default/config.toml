@@ -20,7 +20,7 @@ baseurl = "/"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "stanford"
+theme = "academic"
 
 # tell blogdown which directory it should place the rendered site in
 # publishDir = "../nkeleher.github.io"
