@@ -1,11 +1,11 @@
 # Theme metadata
-name = "Minimal"
+name = "Stanford"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#8c1515"
+primary = "#006CB8"
 
 #palette_Stanford
 # https://identity.stanford.edu/color.html#digital-color
@@ -35,7 +35,7 @@ primary = "#8c1515"
 # Menu
 menu_primary = "#2F2424"
 menu_text = "#ffffff"
-menu_text_active = "#0098db"
+menu_text_active = "#006CB8"
 menu_title = "#ffffff"
 
 # Home sections

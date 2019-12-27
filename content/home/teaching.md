@@ -13,7 +13,7 @@ subtitle = ""
 
 +++
 
-## Lead Instructor
+## Instructor
 
 - Info 206: Software Prototyping for Data Science and Information Management - UC Berkeley, Fall 2017 (site)
 
