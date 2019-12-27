@@ -11,9 +11,6 @@ weight = 40  # Order that this section will appear.
 title = "Teaching"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 40
-
 +++
 
 ## Lead Instructor
