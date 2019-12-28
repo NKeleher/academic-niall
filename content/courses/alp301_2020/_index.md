@@ -17,8 +17,8 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
  alp301_2020:
-  name: ""
-  weight: 0
+  name: "ALP 301"
+  weight: 1
 ---
 
 ### Under Construction
