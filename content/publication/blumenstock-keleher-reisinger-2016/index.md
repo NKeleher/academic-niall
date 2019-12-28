@@ -10,5 +10,6 @@ publication: "*Proceedings of the Eighth International Conference on Information
 doi: "10.1145/2909609.2909646"
 tags: ["Mobile Phones", "Crowdsourcing"]
 categories: ["ICTD"]
+projects: [""]
 ---
 

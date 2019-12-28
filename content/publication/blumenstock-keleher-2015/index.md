@@ -9,6 +9,7 @@ featured: true
 publication: "*Proceedings of the 2015 Annual Symposium on Computing for Development*"
 tags: ["Mobile Phones", "Crowdsourcing"]
 categories: ["ICTD"]
+projects: [""]
 doi: "10.1145/2830629.2830647"
 ---
 

@@ -9,5 +9,6 @@ featured: true
 #publication: "Accepted at *Economic Development and Cultural Change*"
 tags: ["Sports", "Welfare", "Social Networks", "RCT"]
 categories: ["Development Economics"]
+projects: ["monrovia_sports"]
 ---
 

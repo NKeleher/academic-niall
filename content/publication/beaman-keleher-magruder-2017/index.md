@@ -9,6 +9,7 @@ featured: true
 publication: "*Journal of Labor Economics*"
 tags: ["Welfare", "Labor", "Social Networks", "RCT"]
 categories: ["Development Economics"]
+projects: ["malawi_recruitment"]
 doi: "10.1086/693869"
 ---
 

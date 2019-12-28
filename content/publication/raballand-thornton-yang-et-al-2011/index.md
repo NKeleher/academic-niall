@@ -9,11 +9,7 @@ featured: false
 publication: "World Bank Policy Research Working Paper"
 tags: ["Transportation", "Welfare", "RCT"]
 categories: ["Development Economics"]
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: ["malawi_transport"]
+doi: "10.1596/1813-9450-5535"
 ---
 
