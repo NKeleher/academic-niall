@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   ta_experience:
     name: "TA Experience"
-    weight: 1
+    weight: 3
 ---
 
 I have served as a graduate teaching assistant for the following courses:

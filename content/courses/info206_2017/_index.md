@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   info206_2017:
     name: "Info 206"
-    weight: 1
+    weight: 2 
 ---
 
 ### Info 206, UC Berkeley School of Information, Fall 2017
