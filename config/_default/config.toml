@@ -4,51 +4,37 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
-# Title of your site
-title = "Niall C. Keleher"
+baseurl = "https://nkeleher.netlify.com" # The URL of your site.
+title = "Niall C. Keleher" # Title of your site
+copyright = "&copy; `{year}` Niall Carrigan Keleher"
+theme = "academic" # Name of Academic theme folder in `themes/`
 
-# The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
-
-# Enter a copyright notice to display in the site footer.
-# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-# copyright = ""
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+paginate = 10  # Number of items per page in paginated lists.
+defaultContentLanguage = "en" # Default language to use (if you setup multilingual support)
+hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir = false
+enableGitInfo = false # Get last modified date for content from Git?
 
 ############################
 ## Advanced options below ##
 ############################
 
-# Name of Academic theme folder in `themes/`.
-theme = "academic"
+[outputs]
+  home = [ "HTML", "CSS", "RSS"]
+  section = [ "HTML", "RSS" ]
 
-# tell blogdown which directory it should place the rendered site in
-# publishDir = "../nkeleher.github.io"
-
-# Get last modified date for content from Git?
-enableGitInfo = false
-
-# Configure BlackFriday Markdown rendering.
-#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
-# Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
+
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
-paginate = 10  # Number of items per page in paginated lists.
-enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
-[outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
-  section = [ "HTML", "RSS" ]
 
 [mediaTypes."application/manifest+json"]
   suffixes = ["webmanifest"]

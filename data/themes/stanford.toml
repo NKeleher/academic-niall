@@ -4,11 +4,10 @@ name = "Stanford"
 # Is theme light or dark?
 light = true
 
-# Primary
-primary = "#006CB8"
-
 #palette_Stanford
 # https://identity.stanford.edu/color.html#digital-color
+# "#8C1515" % Cardinal Red
+# "#820000" % Dark Red
 # "#eaab00" % Sun
 # "#0098db" % Sky
 # "#006CB8" % Bright Blue
@@ -32,12 +31,16 @@ primary = "#006CB8"
 # "#000000" % Black
 # "#999999" % Gray
 
+
+# Primary
+primary = "#006cb8"
+
 # Menu
-menu_primary = "#2f2424"
+menu_primary = "#8c1515"
 menu_text = "#ffffff"
-menu_text_active = "#eaab00"
+menu_text_active = "#d2c295"
 menu_title = "#ffffff"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "#F4F4F4"
+home_section_even = "#F9F6EF"

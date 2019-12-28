@@ -6,41 +6,36 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 1
 
 [[main]]
   name = "Publications"  # A link title for your page.
   url = "publication/"  # The URL of your page.
-  weight = 20  # The position of your page in the menu.
+  weight = 2  # The position of your page in the menu.
 
 [[main]]
   name = "Projects"  # A link title for your page.
   url = "project/"  # The URL of your page.
-  weight = 30  # The position of your page in the menu.
-
-#[[main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 40
+  weight = 3  # The position of your page in the menu.
 
 [[main]]
   name = "Courses"
   url = "courses/"
-  weight = 40
+  weight = 4
 
 #[[main]]
 #  name = "Blog"
 #  url = "post/"
-#  weight = 50
+#  weight = 5
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "files/NCKeleher_CV.pdf"
-  weight = 70
+  weight = 7
