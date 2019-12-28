@@ -15,10 +15,10 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-menu:
-  alp301_2020:
-    name: "ALP 301"
-    weight: 1
+#menu:
+#  alp301_2020:
+#    name: "ALP 301"
+#    weight: 1
 ---
-:construction:
+
 ### Under Construction
