@@ -65,10 +65,7 @@ gravatar = true
 #avatar = "profile/NKeleher600_sq.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
 # Enter contact details (optional). To hide a field, clear it to "".
-#email = "nkeleher@stanford.edu"
-email1 = "nkeleher" # using cryptedmail
-email2 = "stanford" # using cryptedmail
-email3 = "edu" # using cryptedmail
+email = "nkeleher@stanford.edu"
 phone = ""
 
 # Office hours
@@ -129,9 +126,8 @@ address_format = "en-us"
 
 # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = ['cryptedmail.css']
-  # custom_css = ['flip2019layout.css', 'cryptedmail.css', 'flip2018.css', 'flipaboutme.css', 'flipnav.css', 'slick.css', 'slick-theme.css', 'flipslick.css']
-  # custom_js  = ['jquery-2.2.0.min.js', 'slick.js', 'flipslick.js']
+  # custom_css = ['']
+  # custom_js = ['']
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
 main_menu = {align = "r", show_logo = true}
