@@ -1,6 +1,6 @@
 ---
 title: "Stay in the Game: A Randomized Controlled Trial of a Sports and Life Skills Program for Vulnerable Youth in Liberia"
-date: 2019
+date: 2019-12-23
 publishDate: 2019-12-27T20:01:38.139218Z
 authors: ["Lori Beaman", "Sylvan Herskowitz", "Niall Keleher", "Jeremy Magruder"]
 publication_types: ["3"]
