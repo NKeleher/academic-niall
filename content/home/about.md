@@ -3,7 +3,7 @@
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+weight = 1  # Order that this section will appear in.
 
 title = ""
 
@@ -29,6 +29,4 @@ author = "admin"
 
   # Text color (true=light or false=dark).
   #text_color_light = true
-
-
 +++
