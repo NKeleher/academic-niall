@@ -14,12 +14,12 @@
   weight = 2  # The position of your page in the menu.
 
 [[main]]
-  name = "Projects"  # A link title for your page.
-  url = "project/"  # The URL of your page.
-  weight = 3  # The position of your page in the menu.
+  name = "Research"
+  url = "project/"
+  weight = 3
 
 [[main]]
-  name = "Courses"
+  name = "Teaching"
   url = "courses/"
   weight = 4
 
@@ -33,8 +33,7 @@
   url = "#contact"
   weight = 6
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# cpy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "files/NCKeleher_CV.pdf"
