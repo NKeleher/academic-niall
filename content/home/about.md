@@ -1,7 +1,7 @@
 +++
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
@@ -11,6 +11,10 @@ title = ""
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
+
+header:
+  image: "header.png"
+  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 
 [design.background]
   # Background color.
@@ -29,4 +33,6 @@ author = "admin"
 
   # Text color (true=light or false=dark).
   #text_color_light = true
+
+
 +++
