@@ -12,7 +12,7 @@ title = "Curriculum Vitae"
 weight = 3
 
 # CV location
-cv_pdf = "./files/NCKeleher.pdf"
+cv_pdf = "./files/NCKeleher_CV.pdf"
 
 # Group Logo
 # group_logo = ""
