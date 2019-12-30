@@ -1,7 +1,7 @@
 +++
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear in.
 
@@ -29,6 +29,6 @@ author = "admin"
   #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  #text_color_light = true
+  text_color_light = false
 
 +++
