@@ -5,8 +5,8 @@ active = true
 date = 2019-12-29T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "CV"
-subtitle = "Curriculum Vitae"
+title = "Curriculum Vitae"
+#subtitle = ""
 
 # Order that this section will appear in.
 weight = 2
@@ -38,36 +38,41 @@ cv_pdf = "./files/NCKeleher.pdf"
 
 [[education.courses]]
   course = "MPA in International Development"
-  course_short = "MPAID"
+  course_short = "MPA/ID"
   institution = "Harvard Kennedy School"
   institution_short = "HKS"
   year = 2006
 #  logo = ""
 
 [[education.courses]]
-  course = "BS in Economics and International Studies"
-  course_short = "BS"
+  course = "BA in Economics and International Studies"
+  course_short = "BA"
   institution = "The Johns Hopkins University"
   institution_short = "JHU"
   year = 2003
 #  logo = ""
 
+[[education.courses]]
+  course = "Diploma in Economics and International Studies"
+  course_short = "Diploma"
+  institution = "JHU SAIS Europe"
+  institution_short = "SAIS Europe"
+  year = 2002
+#  logo = ""
 
-# List your academic interests.
-#[service]
-#  service = [
-#    "Open House Committee (chair)",
-#    "Website Committee (chair)",
-#    "Graduate Diversity Committee",
-#    "[Graduate Student Mentor](https://gradmentors.ucr.edu)",
-#    "[Reviewer](https://publons.com/author/637273/)"
-#  ]
+
+# List your academic service.
+[service]
+  service = [
+    "Peer Reviewer (Word Bank Economic Review, Journal of Development Economics, Journal of African Economies, National Science Foundation (NSF), IEEE/ACM Conference on Information and Communication Technologies and Development (ICTD), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Social Informatics",
+    "[Innovations for Poverty Action IRB Board Member](https://www.poverty-action.org/researchers/irb-members)",
+  ]
 
 +++
 
 **Niall Keleher** is a Postdoctoral Scholar at the Stanford Graduate School of Business. He is a member of the Golub Capital Social Impact Lab.
 
 Other Professional Experience:
-- Director of Research Methods and Training, Innovations for Poverty Action, 2012-2014
+- Director of Research Methods, Innovations for Poverty Action, 2012-2014
 - Country Director, Malawi, Innovations for Poverty Action, 2009-2011
-- Junior Professional Associate, Office of the Chief Economist, The World Bank, 2006-2008
+- Junior Professional Associate, The World Bank, 2006-2008
