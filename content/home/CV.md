@@ -19,13 +19,13 @@ group_logo = ""
 
 
 # List your academic interests.
-[interests]
-  interests = [
-  "Data Science",
-  "Causal Inference",
-  "Survey Research",
-  "Development Economics"
-  ]
+#[interests]
+#  interests = [
+#  "Data Science",
+#  "Causal Inference",
+#  "Survey Research",
+#  "Development Economics"
+#  ]
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
@@ -45,12 +45,12 @@ group_logo = ""
 #  logo = ""
 
 [[education.courses]]
-  course = "BS in Economics and International Studies"
-  course_short = "BS"
-  institution = "The Johns Hopkins University"
-  institution_short = "JHU"
-  year = 2003
-  logo = ""
+#  course = "BS in Economics and International Studies"
+#  course_short = "BS"
+#  institution = "The Johns Hopkins University"
+#  institution_short = "JHU"
+#  year = 2003
+#  logo = ""
 
 
 # List your academic interests.
