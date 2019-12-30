@@ -9,7 +9,7 @@ title = "Curriculum Vitae"
 #subtitle = ""
 
 # Order that this section will appear in.
-weight = 2
+weight = 3
 
 # CV location
 cv_pdf = "./files/NCKeleher.pdf"
@@ -64,8 +64,8 @@ cv_pdf = "./files/NCKeleher.pdf"
 # List your academic service.
 [service]
   service = [
-    "Peer Reviewer (Word Bank Economic Review, Journal of Development Economics, Journal of African Economies, National Science Foundation (NSF), IEEE/ACM Conference on Information and Communication Technologies and Development (ICTD), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Social Informatics",
-    "[Innovations for Poverty Action IRB Board Member](https://www.poverty-action.org/researchers/irb-members)",
+    "[IRB Board Member](https://www.poverty-action.org/researchers/irb-members)";
+    "**Peer Reviewer** (Word Bank Economic Review, Journal of Development Economics, Journal of African Economies, National Science Foundation (NSF), IEEE/ACM Conference on Information and Communication Technologies and Development (ICTD), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Social Informatics)"
   ]
 
 +++
