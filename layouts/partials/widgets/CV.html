@@ -50,14 +50,10 @@
           {{ with $page.Params.education }}
           <div class="col-sm-7">
             <h3>{{ i18n "education" | markdownify }}</h3>
-            <!-- <ul class="ul-edu fa-ul"> -->
+            <ul class="ul-edu fa-ul">
               {{ range .courses }}
-              <!-- <li> -->
-                {{ if .logo }}
-                <img src="{{ $.Site.BaseURL }}img/{{ .logo }}" style="height:1rem; float: left; padding-right: 10px;">
-                {{ else }}
+              <li>
                 <i class="fa-li fa fa-graduation-cap"></i>
-                {{ end }}
                 <div class="description">
                   <!-- <p class="course"> -->
                     {{ .course_short }}
@@ -68,9 +64,9 @@
                   <!-- <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p> -->
                   <!-- <p class="institution">{{ .institution }}</p> -->
                 </div>
-              <!-- </li> -->
+              </li>
               {{ end }}
-            <!-- </ul> -->
+            </ul>
           </div>
           {{ end }}
 
