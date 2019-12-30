@@ -5,7 +5,7 @@ active = true
 date = 2019-12-29T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Curriculum Vitae"
+title = "About Me"
 #subtitle = ""
 
 # Order that this section will appear in.
@@ -71,6 +71,8 @@ cv_pdf = "./files/NCKeleher.pdf"
 +++
 
 **Niall Keleher** is a Postdoctoral Scholar at the Stanford Graduate School of Business. He is a member of the Golub Capital Social Impact Lab.
+
+His research focuses on the intersection of data science for social good, causal inference, development economics, and the use of new methods of data collection. Niall has over 10 years of experience conducting randomized evaluations and primary data collection in developing countries. During the course of his career, Niall has worked on research with financial institutions, development organizations, and online tech firms.
 
 Other Professional Experience:
 - Director of Research Methods, Innovations for Poverty Action, 2012-2014
