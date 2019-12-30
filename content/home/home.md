@@ -1,7 +1,7 @@
 +++
 # Hero widget.
 widget = "hero"
-active = false
+active = true
 date = 2019-12-30
 
 title = ""
