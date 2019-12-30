@@ -8,7 +8,7 @@ theme = "stanford"
 font = "stanford"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Choose a font size.
 font_size = "L" # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
