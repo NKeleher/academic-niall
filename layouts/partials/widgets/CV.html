@@ -34,37 +34,47 @@
 
 
     <!-- ADAPTED FROM about.html -->
-    <div class="row">
+    <div class="row" style="margin-bottom: 10px;">
 
-      {{ with $page.Params.interests }}
-      <div class="col-md-5">
-        <h3>{{ i18n "interests" | markdownify }}</h3>
-        <ul class="ul-interests">
-          {{ range . }}
-          <li>{{ . | markdownify | emojify }}</li>
+          {{ with $page.Params.interests }}
+          <div class="col-sm-5">
+            <h3>{{ i18n "interests" | markdownify }}</h3>
+            <ul class="ul-interests">
+              {{ range .interests }}
+              <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
           {{ end }}
-        </ul>
-      </div>
-      {{ end }}
 
-      {{ with $page.Params.education }}
-      <div class="col-md-7">
-        <h3>{{ i18n "education" | markdownify }}</h3>
-        <ul class="ul-edu fa-ul">
-          {{ range .courses }}
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
-            </div>
-          </li>
+          {{ with $page.Params.education }}
+          <div class="col-sm-7">
+            <h3>{{ i18n "education" | markdownify }}</h3>
+            <!-- <ul class="ul-edu fa-ul"> -->
+              {{ range .courses }}
+              <!-- <li> -->
+                {{ if .logo }}
+                <img src="{{ $.Site.BaseURL }}img/{{ .logo }}" style="height:1rem; float: left; padding-right: 10px;">
+                {{ else }}
+                <i class="fa-li fa fa-graduation-cap"></i>
+                {{ end }}
+                <div class="description">
+                  <!-- <p class="course"> -->
+                    {{ .course_short }}
+                    {{ with .institution_short }}, {{ . }}{{ end }}
+                    {{ with .year }}({{ . }}){{ end }}
+                    <br />
+                  <!-- </p> -->
+                  <!-- <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p> -->
+                  <!-- <p class="institution">{{ .institution }}</p> -->
+                </div>
+              <!-- </li> -->
+              {{ end }}
+            <!-- </ul> -->
+          </div>
           {{ end }}
-        </ul>
-      </div>
-      {{ end }}
 
-    </div>
+      </div> <!-- end row of CV items -->
 
       {{ with $page.Params.service }}
         <p style="font-size: .8rem;">
