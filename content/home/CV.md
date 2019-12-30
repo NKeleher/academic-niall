@@ -65,7 +65,7 @@ cv_pdf = "./files/NCKeleher.pdf"
 [service]
   service = [
     "[IRB Board Member](https://www.poverty-action.org/researchers/irb-members)",
-    "**Peer Reviewer** (Word Bank Economic Review, Journal of Development Economics, Journal of African Economies, National Science Foundation (NSF), IEEE/ACM Conference on Information and Communication Technologies and Development (ICTD), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Social Informatics)"
+    "[Peer Review](https://publons.com/researcher/3303240) (Word Bank Economic Review, Journal of Development Economics, Journal of African Economies, National Science Foundation (NSF), IEEE/ACM Conference on Information and Communication Technologies and Development (ICTD), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Social Informatics)"
   ]
 
 +++
