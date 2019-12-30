@@ -1,4 +1,19 @@
+{{ $ := .root }}
 {{ $page := .page }}
+
+{{ $author := "" }}
+{{ if .author }}
+  {{ $author = .author }}
+{{ else }}
+  {{ $author = $page.Params.author }}
+{{end}}
+
+{{ $person_page_path := (printf "/authors/%s" (anchorize $author)) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://sourcethemes.com/academic/docs/page-builder/#about " $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
 
 <!-- Custom widget -->
 <div class="row">
@@ -37,7 +52,7 @@
     <div class="row" style="margin-bottom: 10px;">
 
           {{ with $page.Params.interests }}
-          <div class="col-sm-7">
+          <div class="col-sm-5">
             <h3>{{ i18n "interests" | markdownify }}</h3>
             <ul class="ul-interests">
               {{ range .interests }}
