@@ -86,5 +86,3 @@ user_groups: []
 # - Researchers
 # - Visitors
 ---
-
-Niall Keleher's research focuses on the intersection of data science for social good, causal inference, development economics, and the use of new methods of data collection. He has over 10 years of experience conducting randomized evaluations and primary data collection in developing countries. He has worked in the Chief Economist’s Office of the World Bank and as Director of Research Methods and Knowledge Management at Innovations for Poverty Action. During the course of his career, Niall has worked on research with financial institutions, development organizations, and online tech firms. He holds a Bachelors degree in Economics and International Studies from the Johns Hopkins University, a Masters in Public Administration in International Development from the Harvard Kennedy School, and Ph.D. in Information Management and Systems from the University of California Berkeley School of Information.
