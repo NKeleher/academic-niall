@@ -81,6 +81,14 @@
         </p>
       {{ end }}
 
+      {{ if $page.Params.cv_pdf }}
+      <p>
+        <a class="btn btn-primary btn-outline btn-xs" href="{{ $page.Params.cv_pdf }}">
+          Download Complete CV
+        </a>
+        </p>
+      {{ end }}
+
 
   </div> <!-- col-xs-12 col-md-8 -->
 

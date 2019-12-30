@@ -61,8 +61,7 @@ edit_page = {repo_url = "https://github.com/NKeleher/academic-niall", content_di
 ############################
 
 # Get user avatars from Gravatar.com? (true/false)
-gravatar = true
-#avatar = "profile/NKeleher600_sq.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+gravatar = false
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "nkeleher@stanford.edu"
