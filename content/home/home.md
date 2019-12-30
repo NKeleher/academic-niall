@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2019-12-30
 
-title = "Niall C. Keleher"
+title = ""
 # Order that this section will appear in.
 weight = 1
 
@@ -13,6 +13,6 @@ weight = 1
 [header]
   #overlay_color = "#666"  # An HTML color value.
   overlay_img = "header.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  #overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 +++

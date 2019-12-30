@@ -38,7 +38,7 @@
 
           {{ with $page.Params.interests }}
           <div class="col-sm-5">
-            <h3>{{ i18n "interests" | markdownify }}</h3>
+            <h3>{{ i18n "research interests" | markdownify }}</h3>
             <ul class="ul-interests">
               {{ range .interests }}
               <li>{{ . }}</li>
@@ -57,8 +57,8 @@
                 <div class="description">
                   <!-- <p class="course"> -->
                     {{ .course_short }}
-                    {{ with .institution }}, {{ . }}{{ end }}
-                    {{ with .year }}, {{ . }} {{ end }}
+                    {{ with .institution }}-- {{ . }}{{ end }}
+                    {{ with .year }} ({{ . }}) {{ end }}
                     <br />
                   <!-- </p> -->
                   <!-- <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p> -->
