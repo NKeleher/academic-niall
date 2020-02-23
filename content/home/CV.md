@@ -70,9 +70,9 @@ cv_pdf = "./files/NCKeleher_CV.pdf"
 
 +++
 
-**Niall Keleher** is a Postdoctoral Scholar and Lecturer at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/) and a Data Science Scholar in the [Stanford Data Science Initiative](https://sdsi.stanford.edu/). He is a member of the [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil).
+**Niall Keleher** is a Postdoctoral Scholar and Lecturer at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/) and a Data Science Scholar in the [Stanford Data Science Initiative](https://datascience.stanford.edu/about/about-stanford-data-science-institute). He is a member of the [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil).
 
-His research focuses on the intersection of data science for social good, causal inference, development economics, and the use of new methods of data collection. Niall has over 10 years of experience conducting randomized evaluations and primary data collection in developing countries. During the course of his career, Niall has worked on research with financial institutions, development organizations, and online tech firms.
+His research focuses on the intersection of data science for social good, causal inference, development economics, and information and communication technologies for development. Niall has over 10 years of experience conducting randomized evaluations and primary data collection in developing countries. During the course of his career, Niall has worked on research with financial institutions, development organizations, and online tech firms.
 
 Other Professional Experience:
 - Director of Research Methods, Innovations for Poverty Action, 2012-2014
