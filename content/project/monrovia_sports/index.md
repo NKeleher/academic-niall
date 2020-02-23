@@ -29,3 +29,5 @@ image:
 projects: []
 weight: 3
 ---
+
+Accepted in Economic Development and Cultural Change, publication forthcoming.
