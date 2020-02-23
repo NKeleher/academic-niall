@@ -30,4 +30,4 @@ projects: []
 weight: 1
 ---
 
-Conditionally accepted in [The 11th International Conference on Information and Communication Technologies and Development (ICTD 2020)](https://ictd2020.org/).
+Paper conditionally accepted in [The 11th International Conference on Information and Communication Technologies and Development (ICTD 2020)](https://ictd2020.org/).
