@@ -37,9 +37,9 @@ primary = "#00548f"
 
 # Menu
 menu_primary = "#009b76"
-menu_text = "#ffffff"
-menu_text_active = "#d2c295"
-menu_title = "#ffffff"
+menu_text = "#F4F4F4"
+menu_text_active = "#eaab00"
+menu_title = "#2e2d29"
 
 # Home sections
 home_section_odd = "#F4F4F4"
