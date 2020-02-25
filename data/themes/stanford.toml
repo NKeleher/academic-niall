@@ -36,7 +36,7 @@ light = true
 primary = "#00548f"
 
 # Menu
-menu_primary = "#8c1515"
+menu_primary = "#009b76"
 menu_text = "#ffffff"
 menu_text_active = "#d2c295"
 menu_title = "#ffffff"
