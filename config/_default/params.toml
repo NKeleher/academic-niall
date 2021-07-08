@@ -69,21 +69,21 @@ phone = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Email or sign up on calendly for appointments"]
+# office_hours = ["Email or sign up on calendly for appointments"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/nkeleher"
+# appointment_url = "https://calendly.com/nkeleher"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "655 Knight Way", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {city = "Seattle", region = "WA", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "3", longitude = ""}
+coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
-directions = "Office is in the basement of Bass Center, B002"
+# directions = "Office is in the basement of Bass Center, B002"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
