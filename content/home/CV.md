@@ -74,7 +74,7 @@ Conference on Computing Systems and Sustainable Societies (COMPASS); ACM Interac
 
 **Niall Keleher** is a Researcher and Data Scientist who focuses on the application of science for social good.
 
-Niall's focuses on the intersection of data science, causal inference, development economics, and information and communication technologies. Niall has over 10 years of experience conducting randomized evaluations and primary data collection in developing countries. During the course of his career, Niall has worked on research with financial institutions, development organizations, and online tech firms.
+Niall's focuses on the intersection of data science, causal inference, development economics, and information and communication technologies. Niall has over 12 years of experience conducting randomized evaluations and primary data collection in developing countries. During the course of his career, Niall has worked on research with financial institutions, development organizations, and online tech firms.
 
 Professional Experience:
 - Senior Data Scientist, Textio, 2021-Present
