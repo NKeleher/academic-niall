@@ -22,6 +22,7 @@ cv_pdf = "./files/NCKeleher_CV.pdf"
 [interests]
   interests = [
   "Data Science",
+  "Machine Learning",
   "Causal Inference",
   "Survey Research",
   "Development Economics"
@@ -65,17 +66,19 @@ cv_pdf = "./files/NCKeleher_CV.pdf"
 [service]
   service = [
     "[IRB Board Member](https://www.poverty-action.org/researchers/irb-members);",
-    "[Peer Review](https://publons.com/researcher/3303240) (Word Bank Economic Review, Journal of Development Economics, Journal of African Economies, National Science Foundation (NSF), IEEE/ACM Conference on Information and Communication Technologies and Development (ICTD), ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Social Informatics)"
+    "[Peer Review](https://publons.com/researcher/3303240) (Word Bank Economic Review; Journal of Development Economics; Journal of African Economies; National Science Foundation (NSF); IEEE/ACM Conference on Information and Communication Technologies and Development (ICTD); ACM
+Conference on Computing Systems and Sustainable Societies (COMPASS); ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT); Social Informatics)"
   ]
 
 +++
 
-**Niall Keleher** is a Research Scientist who focuses on the application of science for social good.
+**Niall Keleher** is a Researcher and Data Scientist who focuses on the application of science for social good.
 
-His research focuses on the intersection of data science, causal inference, development economics, and information and communication technologies. Niall has over 10 years of experience conducting randomized evaluations and primary data collection in developing countries. During the course of his career, Niall has worked on research with financial institutions, development organizations, and online tech firms.
+Niall's focuses on the intersection of data science, causal inference, development economics, and information and communication technologies. Niall has over 10 years of experience conducting randomized evaluations and primary data collection in developing countries. During the course of his career, Niall has worked on research with financial institutions, development organizations, and online tech firms.
 
 Professional Experience:
-- Senior Research Scientist, Research Improving People's Lives, 2020-Present
+- Senior Data Scientist, Textio, 2021-Present
+- Senior Research Scientist, Research Improving People's Lives, 2020-2021
 - Lecturer and Data Science Scholar, Stanford GSB, 2019-2020
 - Research Consultant, The World Bank, 2015-2018
 - Director of Research Methods, Innovations for Poverty Action, 2012-2014
